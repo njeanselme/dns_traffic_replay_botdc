@@ -1,0 +1,7 @@
+client @0x7f3ea8154d20 192.168.1.101#59001 (ntp.ubuntu.com): query: ntp.ubuntu.com IN A + (192.168.1.2)
+client @0x7f3ea8154d20 192.168.1.101#59001 (ubuntu.com): query: ubuntu.com IN A + (192.168.1.2)
+client @0x7f3ea8154d20 192.168.1.101#59001 (infoblox.com): query: infoblox.com IN A + (192.168.1.2)
+client @0x7f3ea8154d20 192.168.1.101#59001 (google.com): query: google.com IN A + (192.168.1.2)
+client @0x7f3ea8154d20 10.13.37.10#59001 (ml.warzonedns.com): query: ml.warzonedns.com IN A + (192.168.1.2)
+client @0x7f3ea8154d20 192.168.1.4#46850 (test.com): query: test.com IN SOA - (192.168.1.2)
+client @0x7f3ea8254b10 ::1#49641 (1.0.0.127.in-addr.arpa): query: 1.0.0.127.in-addr.arpa IN PTR + (2001:db8:a42:cafe:100::2)
